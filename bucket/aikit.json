@@ -1,12 +1,12 @@
 {
-  "version": "0.1.25",
+  "version": "0.1.24",
   "description": "AIKit",
   "homepage": "https://github.com/goaikit/aikit",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/goaikit/aikit/releases/download/v0.1.25/aikit-x86_64-pc-windows-msvc.zip",
-      "hash": "2360687013ef971e67fb11166af297d8f5076122aade54d765dd13d3565d16d9"
+      "url": "https://github.com/goaikit/aikit/releases/download/v0.1.24/aikit-x86_64-pc-windows-msvc.zip",
+      "hash": "28adfea392141d451c8f950d21c835217e9fb202b3598e41f9bd6dd63339d4d5"
     }
   },
   "bin": "aikit.exe",
