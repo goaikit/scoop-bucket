@@ -1,6 +1,6 @@
 {
   "version": "0.1.30",
-  "description": "AIKit",
+  "description": "Universal Package Manager for AI Agent Extensions",
   "homepage": "https://github.com/goaikit/aikit",
   "license": "Apache-2.0",
   "architecture": {
