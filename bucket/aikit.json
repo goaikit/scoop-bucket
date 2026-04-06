@@ -1,12 +1,12 @@
 {
-  "version": "0.1.73",
+  "version": "0.1.74",
   "description": "Universal Package Manager for AI Agent Extensions",
   "homepage": "https://github.com/goaikit/aikit",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/goaikit/aikit/releases/download/v0.1.73/aikit-x86_64-pc-windows-msvc.zip",
-      "hash": "80bcc7c828b69d2db2a59adc9f6e54663495ac36e3a29c918ab49e74f232e851"
+      "url": "https://github.com/goaikit/aikit/releases/download/v0.1.74/aikit-x86_64-pc-windows-msvc.zip",
+      "hash": "94a6fb084e278f58f342c86d9e514af5acf7f26779a5cb11780529016b24fafc"
     }
   },
   "bin": "aikit.exe",
