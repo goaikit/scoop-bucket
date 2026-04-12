@@ -1,6 +1,6 @@
 {
   "version": "0.1.77",
-  "description": "Universal Package Manager for AI Agent Extensions",
+  "description": "Multi-agent template package manager and CLI for AI coding assistants",
   "homepage": "https://github.com/goaikit/aikit",
   "license": "Apache-2.0",
   "architecture": {
