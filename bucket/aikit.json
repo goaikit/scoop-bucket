@@ -1,12 +1,12 @@
 {
-  "version": "0.1.102",
+  "version": "0.1.103",
   "description": "Multi-agent template package manager and CLI for AI coding assistants",
   "homepage": "https://github.com/goaikit/aikit",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/goaikit/aikit/releases/download/v0.1.102/aikit-x86_64-pc-windows-msvc.zip",
-      "hash": "44d0623fdb357c1676784e773e490cb04238af1b82a712c7624041b376e4c236"
+      "url": "https://github.com/goaikit/aikit/releases/download/v0.1.103/aikit-x86_64-pc-windows-msvc.zip",
+      "hash": "218d0bd02da155fa2ae6eb02725fbaf8d25523a4e02afc20b6b3a4f97e34a8c9"
     }
   },
   "bin": "aikit.exe",
