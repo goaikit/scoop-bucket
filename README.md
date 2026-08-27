@@ -9,7 +9,7 @@ Install [aikit](https://github.com/goaikit/aikit) via Scoop on Windows.
 This method enables automatic updates via `scoop update`:
 
 ```powershell
-scoop bucket add gofastskill https://github.com/goaikit/scoop-bucket
+scoop bucket add goaikit https://github.com/goaikit/scoop-bucket
 scoop install aikit
 ```
 
@@ -44,5 +44,5 @@ scoop bucket rm goaikit
 
 ## Learn More
 
-- [FastSkill GitHub](https://github.com/goaikit)
+- [AIKIT GitHub](https://github.com/goaikit)
 
