@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/goaikit/aikit/releases/download/v0.1.196/aikit-x86_64-pc-windows-msvc.zip",
-      "hash": "de158169e89deed6ce7b14f8cb02d68937f51852582567a27767dbb8d38c1e75"
+      "hash": "f9a3cde84f38a3d4f67685bef87a0a6ba799fbe6b651ee3af78cf051b11efe66"
     }
   },
   "bin": "aikit.exe",
